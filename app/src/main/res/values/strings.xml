@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="b_boom">Создать новый список</string>
+    <string name="text_name">Список бытовой химии</string>
+    <string name="text_name2">Список продуктов</string>
+    <string name="chek_Text">Кукуруза</string>
+</resources>
